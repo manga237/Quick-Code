@@ -1,3 +1,3 @@
 export default {
-	base: "/quiz-code/",
+	base: "/Quick-Code/",
 };
